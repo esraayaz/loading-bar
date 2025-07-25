@@ -1,9 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Michroma&display=swap");
+
 * {
   margin: 0 auto;
   padding: 0;
 }
 
 body {
+  font-family: "Michroma", sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -13,7 +16,7 @@ body {
 }
 
 .container {
-  width: 400px;
+  width: 300px;
   height: 150px;
   justify-content: space-between;
   text-align: center;
