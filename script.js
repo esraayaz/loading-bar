@@ -52,7 +52,7 @@ function updateNumber() {
   } else {
     // Completion animation
     container.classList.add("completed");
-    h1.innerHTML = "Complete!";
+    h1.innerHTML = "Completed!";
   }
 }
 
